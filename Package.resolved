@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CartoMobileSDK",
+        "repositoryURL": "https://github.com/nutiteq/mobile-sdk-ios-metal-swift-package.git",
+        "state": {
+          "branch": null,
+          "revision": "0d59069fa457743b3f6c30ae07e1f4f1ffc7fc32",
+          "version": "4.4.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
