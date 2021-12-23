@@ -3,11 +3,10 @@
 
 import PackageDescription
 
+
+
 let package = Package(
     name: "IndoorSDK",
-    platforms. [
-        .iOS(.v11)
-    ],
     products: [
         .library(
             name: "IndoorSDK",
