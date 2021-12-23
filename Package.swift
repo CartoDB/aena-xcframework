@@ -15,6 +15,6 @@ let package = Package(
 //        .package(url: "https://github.com/nutiteq/mobile-sdk-ios-metal-swift-package.git", from: "4.4.3"),
     ],
     targets: [
-        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK.xcframework.zip", checksum: "cfb703e4df91d6fbf004b6748c1fa428e584006dcda74bc1ab12a84a7eb3e093")
+        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK.xcframework.zip", checksum: "d2891b966deffb3374eac3128ad2a80ada1a9d05a9645ebba34d9b6a87fa610f")
     ]
 )
