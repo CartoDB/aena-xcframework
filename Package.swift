@@ -6,6 +6,9 @@ import PackageDescription
 
 let package = Package(
     name: "IndoorSDK",
+    platforms: [
+        .iOS(.v11)
+    ],
     products: [
         .library(
             name: "IndoorSDK",
@@ -15,6 +18,6 @@ let package = Package(
 //        .package(url: "https://github.com/nutiteq/mobile-sdk-ios-metal-swift-package.git", from: "4.4.3"),
     ],
     targets: [
-        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK.xcframework.zip", checksum: "d2891b966deffb3374eac3128ad2a80ada1a9d05a9645ebba34d9b6a87fa610f")
+        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK-1.2.4.zip", checksum: "ac8a43d7c69250818caf4f6abba7630f7df65e20320846c7d6392ed34ba4206c")
     ]
 )
