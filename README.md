@@ -10,3 +10,6 @@ https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
 Added VTC Icon
 
+### Version 1.3.8
+
+Changed invoice stamping icon
