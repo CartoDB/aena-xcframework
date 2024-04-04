@@ -7,7 +7,7 @@ import PackageDescription
 let package = Package(
     name: "IndoorSDK",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v13)
     ],
     products: [
         .library(
@@ -16,6 +16,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK-1.3.8.zip", checksum: "c64ff232bb7688796b954f35de4bc533aa81f555d82cb019271443e811f8e0d3")
+        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK-1.4.0.zip", checksum: "0d7bf714a64adfb4a5cdfc8f0d1e531d260ccd14c44b454762e275bef64f9094")
     ]
 )
