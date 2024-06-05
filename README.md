@@ -18,6 +18,6 @@ Changed invoice stamping icon
 
 Added Chatbot Integrations (more info: https://cartodb.github.io/aena-xcframework/documentation/indoorsdk/chatbotintegration)
 
-### Version 1.4.0 
+### Version 1.4.1 
 
 Other shops subcategory use now the gift icon
