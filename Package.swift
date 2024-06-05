@@ -16,6 +16,6 @@ let package = Package(
     ],
     dependencies: [],
     targets: [
-        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK-1.4.0.zip", checksum: "0d7bf714a64adfb4a5cdfc8f0d1e531d260ccd14c44b454762e275bef64f9094")
+        .binaryTarget(name: "IndoorSDK", url: "https://storage.googleapis.com/aena-xcframework/IndoorSDK-1.4.1.zip", checksum: "b46ddc37fae2903f1cd528dcb151623fcc5e919a1f94eed61b21bcf6224c5c0a")
     ]
 )
