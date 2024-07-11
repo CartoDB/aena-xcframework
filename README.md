@@ -21,3 +21,7 @@ Added Chatbot Integrations (more info: https://cartodb.github.io/aena-xcframewor
 ### Version 1.4.1 
 
 Other shops subcategory use now the gift icon
+
+### Version 1.4.2
+
+Remove older analytics framework
