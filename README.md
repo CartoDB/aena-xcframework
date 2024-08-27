@@ -6,22 +6,29 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
-### Version 1.3.7
+### Version 1.4.3
 
-Added VTC Icon
+New Fast track and Fast lane subcategory icons
 
-### Version 1.3.8
+### Version 1.4.2
 
-Changed invoice stamping icon
-
-### Version 1.4.0 
-
-Added Chatbot Integrations (more info: https://cartodb.github.io/aena-xcframework/documentation/indoorsdk/chatbotintegration)
+Remove older analytics framework
 
 ### Version 1.4.1 
 
 Other shops subcategory use now the gift icon
 
-### Version 1.4.2
+### Version 1.4.0 
 
-Remove older analytics framework
+Added Chatbot Integrations (more info: https://cartodb.github.io/aena-xcframework/documentation/indoorsdk/chatbotintegration)
+
+### Version 1.3.8
+
+Changed invoice stamping icon
+
+### Version 1.3.7
+
+Added VTC Icon
+
+
+
