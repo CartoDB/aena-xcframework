@@ -6,6 +6,10 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.5.3
+
+Changed bus transfer icon
+
 ### Version 1.4.3
 
 New Fast track and Fast lane subcategory icons
@@ -30,9 +34,7 @@ Changed invoice stamping icon
 
 Added VTC Icon
 
-### Version 1.5.3
 
-Changed bus transfer icon
 
 
 
