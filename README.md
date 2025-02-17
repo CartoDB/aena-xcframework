@@ -30,5 +30,9 @@ Changed invoice stamping icon
 
 Added VTC Icon
 
+### Version 1.5.3
+
+Changed bus transfer icon
+
 
 
