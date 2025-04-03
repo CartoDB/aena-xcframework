@@ -8,6 +8,10 @@ https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
 ### Version 1.5.3
 
+Bug fixed, ordered pois in route
+
+### Version 1.5.3
+
 Changed bus transfer icon
 
 ### Version 1.4.3
