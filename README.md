@@ -6,7 +6,7 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
-### Version 1.5.3
+### Version 1.5.4
 
 Bug fixed, ordered pois in route
 
