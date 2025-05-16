@@ -6,6 +6,10 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.5.7
+
+change PMR text
+
 ### Version 1.5.6
 
 fix Apple distribution bug
