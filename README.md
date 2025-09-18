@@ -6,6 +6,10 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.5.8
+
+updated position system (Situm ver 3.34.6)
+
 ### Version 1.5.7
 
 change PMR text
