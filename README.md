@@ -6,6 +6,10 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.6.0
+
+Dark mode added
+
 ### Version 1.5.9
 
 updated position system (Situm ver 3.34.8)
