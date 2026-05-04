@@ -6,6 +6,10 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.6.2
+
+Spain's co-official languages added 
+
 ### Version 1.6.1
 
 SwiftUI Interface. https://cartodb.github.io/aena-xcframework/documentation/indoorsdk/swiftuiintegration
