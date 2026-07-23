@@ -6,6 +6,10 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.7.1
+
+Carto Mobile SDK updated (4.0.5)  
+
 ### Version 1.7.0
 
 Dynamic icons 
