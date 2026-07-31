@@ -6,6 +6,10 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.7.2
+
+lang fix 
+
 ### Version 1.7.1
 
 Carto Mobile SDK updated (4.0.5)  
