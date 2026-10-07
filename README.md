@@ -6,6 +6,13 @@ Documentation:
 
 https://cartodb.github.io/aena-xcframework/documentation/indoorsdk
 
+### Version 1.8.0
+
+Positioning system updated (Situm ver 3.41.2). Requires iOS 16 or later.
+SitumSDK is now a dynamic framework and is added automatically by the package.
+New key required in Info.plist: Privacy - Motion Usage Description (NSMotionUsageDescription), see Getting Started.
+New method `requestAirportList` to get the list of available airports (cached locally).
+
 ### Version 1.7.2
 
 lang fix 
